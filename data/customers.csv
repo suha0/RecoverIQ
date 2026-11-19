@@ -1,0 +1,12 @@
+
+customer_id,name,age,amount_due,days_overdue,status,contact_channel
+1,Rahul,25,50000,15,Paid,Call
+2,Aisha,32,30000,45,Unpaid,WhatsApp
+3,John,40,40000,10,Paid,Call
+4,Sara,28,20000,60,Paid,Email
+5,David,35,60000,90,Unpaid,Call
+6,Maria,30,45000,20,Paid,WhatsApp
+7,Arjun,45,75000,75,Unpaid,Email
+8,Fatima,26,25000,30,Paid,WhatsApp
+9,Daniel,38,55000,120,Unpaid,Call
+10,Zoya,29,35000,25,Paid,Email
