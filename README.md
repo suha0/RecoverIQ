@@ -127,7 +127,7 @@ http://localhost:8501
 
 **Suha Maryam**
 
-GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
+GitHub: [Your GitHub Profile](https://github.com/suha0)
 
 ---
 
